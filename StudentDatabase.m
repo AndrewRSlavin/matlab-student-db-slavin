@@ -6,11 +6,11 @@
 % Date: 11/13/2024
 
 classdef StudentDatabase
-    properties
+    % properties
         Students = [];
     end
     
-    methods
+    % methods
         function obj = addStudent(obj, student)
             obj.Students = [obj.Students; student];
         end
