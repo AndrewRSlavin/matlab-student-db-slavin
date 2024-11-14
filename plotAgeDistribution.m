@@ -5,7 +5,7 @@
 % Task: Main Script
 % Date: 11/13/2024
 
-#Creates a age distrabution histogram
+% Creates age distribution histogram
 function plotAgeDistribution(students)
     ages = [students.Age];
     histogram(ages, 'FaceColor', 'r');
