@@ -1,1 +1,1 @@
-# matlab-student-db-slavin
+My code implements object-oriented programming concepts in MATLAB, utilizing MATLAB-based management to create a system that allows users to manage student records, perform various analyses, and visualize student data.
