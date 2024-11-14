@@ -1,9 +1,9 @@
-% Author Name: Heidi Kling
-% Email: klingh24@rowan.edu
+% Author Name: Andrew Slavin
+% Email: slavin36@rowan.edu
 % Course: MATLAB Programming - Fall 2024
 % Assignment: Midterm
-% Task: Age Distrabution Visulization
-% Date: 11/11/2024
+% Task: Main Script
+% Date: 11/13/2024
 
 #Creates a age distrabution histogram
 function plotAgeDistribution(students)
