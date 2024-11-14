@@ -5,7 +5,7 @@
 % Task: Main Script
 % Date: 11/13/2024
 
-% Creates plot of GPA distribution
+% Creates plot of the GPA distribution
 function plotGPADistribution(students)
     gpas = [students.GPA];
     histogram(gpas, 'FaceColor', 'b');
